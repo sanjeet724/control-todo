@@ -1,6 +1,6 @@
-# control-todo
+# vue-todo
 
-> Control Todo App
+> Vue Todo App
 
 ## To Run
 
